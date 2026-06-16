@@ -64,3 +64,17 @@ h1 {
   font-family: Arial, sans-serif;
   font-size: 0.95rem;
 }
+@media (max-width: 600px) {
+  .card {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .imagen img {
+    width: 150px;
+  }
+
+  h1 {
+    font-size: 2.2rem;
+  }
+}
