@@ -47,3 +47,20 @@ h1 {
   display: flex;
   justify-content: center;
 }
+.texto h2 {
+  font-family: Arial, sans-serif;
+  font-size: 2rem;
+  margin: 0 0 10px;
+  font-weight: 400;
+}
+
+.texto p {
+  margin: 0 0 10px;
+  line-height: 1.5;
+  font-size: 1rem;
+}
+
+.texto a {
+  font-family: Arial, sans-serif;
+  font-size: 0.95rem;
+}
